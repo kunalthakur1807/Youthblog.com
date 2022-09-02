@@ -1,0 +1,23 @@
+.contact-content {
+  display: flex;
+  height: 80vh;
+  margin-top: 18px;
+  padding: 9px;
+  position: relative;
+  overflow: hidden;
+  font-weight:bold ;
+  font-size: large;
+  font-family:'Times New Roman', Times, serif;
+}
+
+/*.contact-content::after {
+content: "";
+background-image: url("/img/h.jpg");
+position: absolute;
+top: 0;
+width: 100%;
+height: inherit;
+opacity: 0.15s;
+border-radius: 12px;
+text-align: center;
+}*/

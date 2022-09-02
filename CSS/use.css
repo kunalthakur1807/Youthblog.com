@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,700&display=swap');
+
+:root {
+  --main-bg-color: rgb(250, 146, 250);
+  --font1: 'Roboto Mono', monospace;
+  --font2: 'Prompt', sans-serif;
+}
+
+.font1 {
+  font-family: var(--font1);
+}
+
+.font2 {
+  font-family: var(--font2);
+}
+
+.max-width-1 {
+  max-width: 90vw;
+}
+
+.max-width-2 {
+  max-width: 70vw;
+}
+
+.h-auto {
+  margin: auto;
+}
+
+.he-2 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.btn {
+  padding: 10px 16px;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  font-family: var(--font1);
+  cursor: pointer;
+  transition: all 1.3s ease-in-out;
+}
+
+.btn:hover {
+  color: whitesmoke;
+  background-color: var(--main-bg-color);
+}
+
+
+
+.form-input {
+  padding: 0 6px;
+  font-size: 18px;
+  border: 2px solid black;
+  border-radius: 3px;
+  margin: 0 13px;
+  font-family: var(--font2);
+}
+
+/* form-group form-control */
+
+/*  */

@@ -1,0 +1,17 @@
+.post-img {
+    height: 430px;
+    overflow: hidden;
+}
+
+.post-img img {
+    width: 100%;
+    align-items: center;
+}
+
+.blog-post-content{
+    background-color: rebeccapurple;
+    text-align: center;
+}
+.blog-post-content p{
+    text-align: center;
+}

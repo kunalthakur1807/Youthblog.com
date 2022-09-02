@@ -1,0 +1,25 @@
+.post-img {
+    height: 430px;
+    overflow: hidden;
+}
+
+.post-img img {
+    width: 100%;
+    align-items: center;
+}
+
+.blog-post-content{
+    background-color: rgb(226, 206, 247);
+    text-align: center;
+}
+.blog-post-content p{
+    text-align: center;
+}
+
+.blog-post-content div .social{
+    float: left;
+
+}
+.blog-post-content img{
+    float: left;
+}
